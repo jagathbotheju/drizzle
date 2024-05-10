@@ -1,0 +1,1 @@
+ALTER TABLE "testTable" ADD COLUMN "eet" interval;
